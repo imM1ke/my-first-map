@@ -11,7 +11,7 @@ Users can...
 1. **See detailed about the places** (including where and why i was there) by clicking the on red point.
 
 Here's a demo:
-<img src="img/giphy.gif" alt = "Demostration of how to use my map and interact with the points" >
+<img src="img/my-map.gif" alt = "Demostration of how to use my map and interact with the points" >
 
 ## Why did I build this?
 
